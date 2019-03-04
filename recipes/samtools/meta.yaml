@@ -23,7 +23,7 @@ requirements:
     - xz
     - libdeflate
   run:
-    - openssl
+    - openssl <1.1
     - ncurses
     - zlib
     - bzip2
